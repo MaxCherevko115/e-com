@@ -3,7 +3,7 @@
 
     @include('base.head')
 
-    <body>
+    <body style="background-color: #e2e8f0">
         @include('base.nav')
 
         @yield('content')

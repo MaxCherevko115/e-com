@@ -2,7 +2,7 @@
     use Illuminate\Support\Facades\Route;
 ?>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-sm navbar-light bg-light">
     <div class="container">
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
